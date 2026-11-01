@@ -1,0 +1,4 @@
+app_name: Observa Sentinel
+in_memory_limit: 10000
+model_path: models/autoencoder.pt
+prometheus_prefix: observasentinel
